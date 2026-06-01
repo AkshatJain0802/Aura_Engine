@@ -21,8 +21,11 @@ Aura Engine is a full-stack inventory management dashboard built for large catal
 
 - [client](client): React dashboard application
 - [server](server): Express API, validation, analytics, and seed script
-- [Prompts.md](Prompts.md): AI transparency log
-- [PROJECT_BUILD_README.md](PROJECT_BUILD_README.md): Step-by-step build guide
+
+## Public Repo Notes
+
+- Environment files are excluded from version control.
+- Internal build notes and AI transparency logs are excluded from the public repository.
 
 ## Screens
 
